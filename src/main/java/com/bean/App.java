@@ -1,4 +1,4 @@
-package SampleJavaProject.EmployeeManagement;
+package com.bean;
 
 /**
  * Hello world!
