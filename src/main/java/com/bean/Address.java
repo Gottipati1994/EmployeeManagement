@@ -5,6 +5,7 @@ public class Address {
 	private int Street;
 	private String area;
 	private String city;
+	private String pincode;
 	
 	
 	public Address(int street, String area, String city) {
